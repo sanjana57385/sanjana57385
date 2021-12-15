@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sanjana57385
+- 🌱 I'm currently working on Something cool😊
+- ✨ I’m currently learning AI,ML and AWS
 - 👀 I’m interested in JavaScript/Python/C++
-- 🌱 I’m currently learning AI,ML and AWS
 - 📫 How to reach me https://www.linkedin.com/in/sanjana-singh5738/
 
 <!---
