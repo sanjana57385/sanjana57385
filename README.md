@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjana57385
 - 🌱 I'm currently working on Something cool😊
-- 👀 I’m interested in React/Python/C++/Salesforce
+- 👀 I’m interested in ReactJs/Node/C++/Salesforce
 - 📫 How to reach me https://www.linkedin.com/in/sanjana-singh5738/
 
 <!---
