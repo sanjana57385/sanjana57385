@@ -48,6 +48,11 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjana57385&show_icons=true&theme=vue" />
 </p>
 
+## 💳 Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana57385&theme=vue"/>
+</p>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
