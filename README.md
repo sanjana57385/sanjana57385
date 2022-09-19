@@ -40,17 +40,17 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjana57385&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjanas6&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjana57385&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjanas6&show_icons=true&theme=vue" />
 </p>
 
 ## 💳 Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana57385&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanas6&theme=vue"/>
 </p>
 
 ### ✍️Random Dev Quote
