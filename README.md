@@ -1,7 +1,6 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Sanjana Singh</h1>
+<h1 align="center"> Hola,  <span className="wave" role="img" aria-labelledby="wave">
+                  👋🏻
+                </span> I'm Sanjana Singh</h1>
 
 # 💫 About Me :
 - 😄 Pronouns: She/Her
