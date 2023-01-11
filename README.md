@@ -18,6 +18,7 @@
 <a href=https://www.linkedin.com/in/sanjana-singh5738/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanas6/" height="30" width="40" /></a>
 <a href="https://twitter.com/Sanjana5738?t=fQNW_E-ZV_Oa_Tq49LOS7A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjanas6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjanasinghcs19"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjanas6" height="30" width="40" /></a>
+<a href="https://leetcode.com/sanjanasingh7774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjanas6" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack
