@@ -6,7 +6,7 @@
 
 <!-- # 💫 About Me : -->
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently building [Bookzy](https://www.bookzy.in/).
+- 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL.
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with React Native documentation.
