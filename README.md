@@ -7,10 +7,7 @@
 <!-- # 💫 About Me : -->
 - 😄 Pronouns: She/Her
 - 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL.
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on open source.
-- 🤔 I’m looking for help with React Native documentation.
-- 💬 Ask me about React JS,Salesforce or any tech-related stuff.
+- 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
