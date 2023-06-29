@@ -3,7 +3,7 @@
 
 <!-- # 💫 About Me : -->
 - 😄 Pronouns: She/Her
-- 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL.
+- 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Mongodb and MYSQL.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: Check social links below.
 
