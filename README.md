@@ -5,9 +5,9 @@
 - 😄 Pronouns: She/Her
 - 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Mongodb and MYSQL.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: Check social links below.
+- 📫 Drop me a mail at -> **sanjanasingh7774@gmail.com**
 
-## 🌐 Socials
+## 🌐 Connect with me
 <p align="left">
 <a href=https://www.linkedin.com/in/sanjana-singh5738/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanas6/" height="30" width="40" /></a>
 <a href="https://twitter.com/Sanjana5738?t=fQNW_E-ZV_Oa_Tq49LOS7A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjanas6" height="30" width="40" /></a>
@@ -52,15 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanas6&theme=vue"/>
 </p>
 
-### ✍️Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
----
-
-
-<!-- <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
- -->
