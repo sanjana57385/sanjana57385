@@ -1,7 +1,4 @@
-<h1 align="center"> Hola,  <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span> I'm Sanjana Singh</h1>
-<h3 align="center">A passionate Problem Solver and Web Dev Learner 🙌.</h3>
+
 <h4 align="center">Since Investment in Knowledge Pays the Highest Interest I Love To Keep Exploring and Learning Throughout 🎯🎯</h4>
 
 <!-- # 💫 About Me : -->
