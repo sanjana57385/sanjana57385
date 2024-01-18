@@ -9,7 +9,7 @@
 - 🔭  I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Mongodb and MYSQL.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Drop me a mail at -> **sanjanasingh7774@gmail.com**
-- Visit My Portfolio -> **https://sanjana-portfolio-sanjanas6.vercel.app/**
+- Visit My Portfolio -> **https://sanjanasingh.vercel.app/**
 
 ## 🌐 Connect with me
 <p align="left">
